@@ -7,8 +7,6 @@ https://github.com/rootphantomer/Blasting_dictionary
 #### fuzz_dict.7z
 https://github.com/Strikersb/fuzz_dict
 #### kali_worldlists.7z
-
-from kali linux
 ```
 root@kali:/usr/share/wordlists# ls -alt
 总用量 52132
