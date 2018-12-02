@@ -2,6 +2,11 @@
 某次CTF比赛中主办方提供的
 #### top100.txt
 https://www.aliyun.com/jiaocheng/1041819.html
+
+#### top1000.txt
+
+http://www.yesck.com/post/top1000-password/
+
 #### Blasting_dictionary.7z
 https://github.com/rootphantomer/Blasting_dictionary
 #### fuzz_dict.7z
