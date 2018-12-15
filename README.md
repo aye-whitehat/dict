@@ -5,7 +5,9 @@ https://www.aliyun.com/jiaocheng/1041819.html
 
 #### top1000.txt
 
-http://www.yesck.com/post/top1000-password/
+http://www.yesck.com/post/top1000-password/ 
+
+并添加了top100
 
 #### Blasting_dictionary.7z
 https://github.com/rootphantomer/Blasting_dictionary
